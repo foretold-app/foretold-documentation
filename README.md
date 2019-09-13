@@ -2,7 +2,7 @@
 
 ## Questions
 
-A question is a thing that can be predicted. Questions have creators who are are responsible for resolving \(answering\) them.
+A question is a thing that can be predicted. Questions have creators who are responsible for resolving \(answering\) them.
 
 ### Distribution vs. Binary Questions
 
