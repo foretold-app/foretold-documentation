@@ -28,7 +28,7 @@ Better\(alternative\): _**"In Jan 2025, I will personally estimate the benefit o
 
 There are subtle ways in which your question can break even if you get the above right. 
 
-For example, measuring the productivity of your team in terms of number of lines of code written written will fail to capture things like code readability and performance, which might be what you really care about. 
+For example, measuring the productivity of your team in terms of number of lines of code written will fail to capture things like code readability and performance, which might be what you really care about. 
 
 Just because a question measures _something_ does not mean that it measures _what you care about_. 
 
